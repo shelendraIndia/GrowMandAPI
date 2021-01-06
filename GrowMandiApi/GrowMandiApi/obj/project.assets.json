@@ -8163,11 +8163,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyChoMandi\\CoreApi\\GrowMandiApi\\GrowMandiApi\\GrowMandiApi.csproj",
+      "projectUniqueName": "D:\\MyChoMandi\\gitWithTeamEx111\\GrowMandiApi\\GrowMandiApi\\GrowMandiApi.csproj",
       "projectName": "GrowMandiApi",
-      "projectPath": "D:\\MyChoMandi\\CoreApi\\GrowMandiApi\\GrowMandiApi\\GrowMandiApi.csproj",
+      "projectPath": "D:\\MyChoMandi\\gitWithTeamEx111\\GrowMandiApi\\GrowMandiApi\\GrowMandiApi.csproj",
       "packagesPath": "C:\\Users\\sipl7\\.nuget\\packages\\",
-      "outputPath": "D:\\MyChoMandi\\CoreApi\\GrowMandiApi\\GrowMandiApi\\obj\\",
+      "outputPath": "D:\\MyChoMandi\\gitWithTeamEx111\\GrowMandiApi\\GrowMandiApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
